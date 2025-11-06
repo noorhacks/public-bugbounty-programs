@@ -9675,8 +9675,8 @@
       ]
     },
     {
-      "name": "Zomato",
-      "url": "https://hackerone.com/zomato",
+      "name": "Eternal (Zomato)",
+      "url": "https://hackerone.com/Eternal",
       "bounty": true,
       "domains": [
         "eternal.com",
